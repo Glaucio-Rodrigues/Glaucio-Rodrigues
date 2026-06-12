@@ -18,10 +18,10 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_DO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=G-RODRIGUES&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_DO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Most Used Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-RODRIGUES&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Most Used Languages" />
       </td>
     </tr>
   </table>
@@ -32,13 +32,10 @@
 ## 🔗 Connect with me:
 
 <div align="center">
-  <a href="https://instagram.com/SEU_INSTAGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/glaucio-rodrigues019" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:seu.email@exemplo.com" target="_blank">
+  <a href="mailto:glaucioti019@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
@@ -75,6 +72,15 @@
   <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/SQL_SERVER-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/PRISMA-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+</div>
+
+---
+
+## 🔮 Futuras Tecnologias:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
 </div>
 
 ---
@@ -137,8 +143,8 @@ Sou um desenvolvedor web fullstack apaixonado por criar aplicações modernas, e
 
 <div align="center">
   
-  **Email:** seu.email@exemplo.com  
-  **Portfólio:** [seu-site.com](https://seu-site.com)
+  **Email:** glaucioti019@gmail.com  
+  **LinkedIn:** [glaucio-rodrigues019](https://www.linkedin.com/in/glaucio-rodrigues019)
   
 </div>
 
@@ -158,8 +164,7 @@ Estou sempre aberto a:
 
 <div align="center">
   
-  ⭐ Se você gostou do meu trabalho, considere dar uma estrela nos meus repositórios!
-  
-  Feito com ❤️ por **Glaucio Rodrigues**
+  ⭐ Se você gostar do meu trabalho, considere dar uma estrela nos meus repositórios!
+  **
   
 </div>
